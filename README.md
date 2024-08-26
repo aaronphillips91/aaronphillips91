@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaronphillips91
 - 👀 I’m interested in making things with code and, when required, solder.
-- 🌱 I’m currently working on a website for Powersport Share and SongChart
-- 💞️ I’m looking to collaborate on projects involving music equipement, like MIDI controllers.
+- 🌱 I’m currently working on a webapp for Powersport Share, SongChart, and BopBox
+- 💞️ I’m looking to collaborate on projects involving music and music equipement, like MIDI controllers.
 - 📫 How to reach me ... coming soon
 
 <!---
